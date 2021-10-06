@@ -11,6 +11,7 @@
 		3C701C0D270D5DA600F245CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C701C0C270D5DA600F245CE /* ContentView.swift */; };
 		3C701C0F270D5DAC00F245CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C701C0E270D5DAC00F245CE /* Assets.xcassets */; };
 		3C701C12270D5DAC00F245CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C701C11270D5DAC00F245CE /* Preview Assets.xcassets */; };
+		3C701C1E270D5EB500F245CE /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C701C1D270D5EB500F245CE /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3C701C0E270D5DAC00F245CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C701C11270D5DAC00F245CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3C701C13270D5DAC00F245CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C701C1D270D5EB500F245CE /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				3C701C0A270D5DA600F245CE /* ThumViewApp.swift */,
 				3C701C0C270D5DA600F245CE /* ContentView.swift */,
 				3C701C0E270D5DAC00F245CE /* Assets.xcassets */,
+				3C701C1D270D5EB500F245CE /* Launch Screen.storyboard */,
 				3C701C13270D5DAC00F245CE /* Info.plist */,
 				3C701C10270D5DAC00F245CE /* Preview Content */,
 			);
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C701C1E270D5EB500F245CE /* Launch Screen.storyboard in Resources */,
 				3C701C12270D5DAC00F245CE /* Preview Assets.xcassets in Resources */,
 				3C701C0F270D5DAC00F245CE /* Assets.xcassets in Resources */,
 			);
